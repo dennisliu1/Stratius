@@ -1,0 +1,28 @@
+{
+  "name": "Stratius",
+  "version": "0.0.1",
+  "description": "A next generation IDE designed for large projects",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electron/electron-quick-start.git"
+  },
+  "keywords": [
+    "Electron",
+    "bootstrap",
+    "coding",
+    "IDE"
+  ],
+  "author": "Dennis Liu",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/electron/electron-quick-start/issues"
+  },
+  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
