@@ -7,6 +7,7 @@ A new approach to the development environment. By using a canvass based approach
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
+# install Python2
 # Clone this repository
 git clone https://github.com/dennisliu12/Stratius
 # Go into the repository
